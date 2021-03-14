@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/notification-sidebar/static/css/main.19841786.chunk.css",
+    "main.js": "/notification-sidebar/static/js/main.dc7a721b.chunk.js",
+    "main.js.map": "/notification-sidebar/static/js/main.dc7a721b.chunk.js.map",
+    "runtime-main.js": "/notification-sidebar/static/js/runtime-main.64c262f3.js",
+    "runtime-main.js.map": "/notification-sidebar/static/js/runtime-main.64c262f3.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/notification-sidebar/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a47bcc6f.chunk.js": "/notification-sidebar/static/js/2.a47bcc6f.chunk.js",
+    "static/js/2.a47bcc6f.chunk.js.map": "/notification-sidebar/static/js/2.a47bcc6f.chunk.js.map",
+    "static/js/3.6ddde8e3.chunk.js": "/notification-sidebar/static/js/3.6ddde8e3.chunk.js",
+    "static/js/3.6ddde8e3.chunk.js.map": "/notification-sidebar/static/js/3.6ddde8e3.chunk.js.map",
+    "index.html": "/notification-sidebar/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/notification-sidebar/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.19841786.chunk.css.map": "/notification-sidebar/static/css/main.19841786.chunk.css.map",
+    "static/js/2.a47bcc6f.chunk.js.LICENSE.txt": "/notification-sidebar/static/js/2.a47bcc6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64c262f3.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a47bcc6f.chunk.js",
+    "static/css/main.19841786.chunk.css",
+    "static/js/main.dc7a721b.chunk.js"
+  ]
+}
