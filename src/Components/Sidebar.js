@@ -22,7 +22,7 @@ function Sidebar() {
                     <a class="list-group-item list-group-item-mine Sidebar_items" href="/">Pushed <ChevronRightIcon className="Sidebar_icon"/></a>                   
                 </div>
             </div>
-            <div className="col-8">col-8 (Vipul's content)</div>
+            <div className="col-8"></div>
         </div>
         </div>        
     );
