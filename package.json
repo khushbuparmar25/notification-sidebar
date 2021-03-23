@@ -1,5 +1,5 @@
 {
-  "name": "notification-sidebar",  
+  "name": "notification-sidebar",
   "homepage": "http://khushbuparmar25.github.io/notification-sidebar",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +15,7 @@
     "popper.js": "^1.16.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.0"
   },
