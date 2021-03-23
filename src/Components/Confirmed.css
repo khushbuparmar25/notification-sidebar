@@ -1,0 +1,85 @@
+
+.appointment-person-failed{
+  margin-right: 10px;
+  width: 55px;
+  height: 55px;
+  border-radius: 30px;
+}
+.confirmed-main{
+  padding-top: 30vh;
+  height: 100vh;
+  overflow-y: scroll;
+}
+.confirmed-notification {
+  width: 700px;
+}
+
+.appointment-person-title {
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.appointment-status-failed {
+  color: #eb3434;
+  font-weight: 500;
+}
+.bold {
+  font-weight: 600;
+}
+.vertical-line {
+  background-color: black;
+  width: 1px;
+  margin: 0;
+  margin-left: 25px;
+  padding: 0;
+  height: 60px;
+}
+
+.vertical-line-failed {
+  background-color: black;
+  width: 1px;
+  margin: 0;
+  margin-left: 25px;
+  padding: 0;
+  height: 40px;
+}
+.booking-time {
+  font-size: 15px;
+}
+.call-book-button{
+  position: absolute;
+  right: 0;
+ 
+}
+.call-book-button button{
+  border-radius: 7px;
+  font-weight: 500;
+  font-size: x-small;
+  margin-left: 10px;
+  padding: 1px 10px 1px 10px;
+}
+.appointment-detail-time {
+  font-size: 13px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.confirmed-app-header {
+  font-size: 18px;
+  margin-top: 15px;
+}
+.confirmed-app-header div {
+  margin-left: 0;
+  margin-right: 20px;
+}
+.doctor-name{
+  margin-top: 30px;
+}
+
+.doctor-location{
+  font-size: 15px;
+}
+
+.tess{
+  display: flex;
+  justify-content: space-between;
+}
